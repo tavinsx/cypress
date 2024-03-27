@@ -1,6 +1,6 @@
 # Automação de teste em cypress
 
-Projeto de exemplo para realização de testes utilizando o Cypress com typescript
+Projeto de exemplo para realização de testes utilizando o Cypress
 
 ## Pré-requisitos:
 
