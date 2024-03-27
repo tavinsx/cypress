@@ -24,17 +24,17 @@ npm install cypress
 
 ### Utilizando o cypress
 
-- Em um terminal execute um dos comandos abaixo para abrir o cypress:
+- Em um terminal execute o comando abaixo para abrir o cypress:
 
 ```
 npx cypress open
 ```
 
-Entre no teste desejado:
 
-```
+Entre no teste:
+
 e2e
-```
+
 
 ### Lógica utilizada para os cenários de testes
 
